@@ -92,7 +92,7 @@ int main() {
 		}
 		printf("GENERATION:%d\n", generationCount);
 		printf("--COMMAND--\n");
-		printf("Move:WASD system\n");
+		printf("\" \"(space):Current cell life switching \n");
 		printf("n:Go to the next generation\n");
 		printf("c:Clear display\n");
 
